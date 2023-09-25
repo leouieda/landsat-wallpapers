@@ -1,0 +1,13 @@
+name: landsat-wallpapers
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - pip
+  - jupyterlab
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-image
+  - pip:
+    - git+https://github.com/compgeolab/xlandsat
