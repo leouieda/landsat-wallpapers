@@ -16,6 +16,9 @@ downloaded from [EarthExplorer](https://earthexplorer.usgs.gov/).
 **Vale do Pati:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/vale-do-pati.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/vale-do-pati.ipynb)
 <img width="100%" src="wallpapers/vale-do-pati.jpg">
 
+**Villarrica volcano:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/villarrica.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/villarrica.ipynb)
+<img width="100%" src="wallpapers/villarrica.jpg">
+
 ## License
 
 Files in the `code` folder are distributed under the MIT license (see
