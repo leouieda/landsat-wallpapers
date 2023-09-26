@@ -10,6 +10,9 @@ downloaded from [EarthExplorer](https://earthexplorer.usgs.gov/).
 **Mount Roraima:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/roraima.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/roraima.ipynb)
 <img width="100%" src="wallpapers/roraima.jpg">
 
+**Amazon river delta:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/amazon-delta.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/amazon-delta.ipynb)
+<img width="100%" src="wallpapers/amazon-delta.jpg">
+
 ## License
 
 Files in the `code` folder are distributed under the MIT license (see
