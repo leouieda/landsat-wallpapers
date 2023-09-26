@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+code/*.tar
+code/*.TIF
+code/*_MTL.txt
