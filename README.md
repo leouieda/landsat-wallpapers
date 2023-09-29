@@ -51,6 +51,12 @@ wallpaper.
 
 <img width="100%" src="wallpapers/lençóis-720p.jpg">
 
+---
+
+**Neuquén:** 🧑🏽‍🎨 [@leouieda](https://github.com/leouieda) | [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/neuquén.jpg?raw=true) | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/neuquén-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/neuquén.ipynb)
+
+<img width="100%" src="wallpapers/neuquén-720p.jpg">
+
 
 
 ## License
