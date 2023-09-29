@@ -10,4 +10,4 @@ dependencies:
   - matplotlib
   - scikit-image
   - pip:
-    - git+https://github.com/compgeolab/xlandsat
+    - xlandsat
