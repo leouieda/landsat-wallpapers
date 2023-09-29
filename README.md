@@ -12,9 +12,13 @@ resolution; 3840x2160) or 720p (low resolution; 1280x720) versions. There are
 also links to browse the Python code (in Jupyter notebooks) that generated each
 wallpaper.
 
+> 💡 **Do you have an idea for a wallpaper or want to add one yourself?**
+> See the instructions in [`CONTRIBUTING.md`][contrib].
+
 [xlandsat]: https://www.compgeolab.org/xlandsat/
 [eex]: https://earthexplorer.usgs.gov/
 [policy]: https://www.usgs.gov/media/files/landsat-data-distribution-policy
+[contrib]: https://github.com/leouieda/landsat-wallpapers/blob/main/CONTRIBUTING.md
 
 
 ---
