@@ -19,6 +19,9 @@ downloaded from [EarthExplorer](https://earthexplorer.usgs.gov/).
 **Villarrica volcano:** [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/villarrica.jpg?raw=true) | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/villarrica-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/villarrica.ipynb)
 <img width="100%" src="wallpapers/villarrica-720p.jpg">
 
+**Lençóis Maranhenses:** [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/lençóis.jpg?raw=true) | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/lençóis-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/lençóis.ipynb)
+<img width="100%" src="wallpapers/lençóis-720p.jpg">
+
 ## License
 
 Files in the `code` folder are distributed under the MIT license (see
