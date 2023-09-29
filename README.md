@@ -1,23 +1,23 @@
 # Landsat Wallpapers
 
-> Beautiful 4k wallpapers made from Landsat remote-sensing data.
+> Beautiful wallpapers made from Landsat remote-sensing data.
 
 Uses [xlandsat](https://www.compgeolab.org/xlandsat/) and public domain data
 downloaded from [EarthExplorer](https://earthexplorer.usgs.gov/).
 
 ## Wallpapers
 
-**Mount Roraima:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/roraima.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/roraima.ipynb)
-<img width="100%" src="wallpapers/roraima.jpg">
+**Mount Roraima:** [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/roraima.jpg?raw=true | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/roraima-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/roraima.ipynb)
+<img width="100%" src="wallpapers/roraima-720p.jpg">
 
-**Amazon river delta:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/amazon-delta.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/amazon-delta.ipynb)
-<img width="100%" src="wallpapers/amazon-delta.jpg">
+**Amazon river delta:** [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/amazon-delta.jpg?raw=true | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/amazon-delta-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/amazon-delta.ipynb)
+<img width="100%" src="wallpapers/amazon-delta-720p.jpg">
 
-**Vale do Pati:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/vale-do-pati.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/vale-do-pati.ipynb)
-<img width="100%" src="wallpapers/vale-do-pati.jpg">
+**Vale do Pati:** [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/vale-do-pati.jpg?raw=true | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/vale-do-pati-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/vale-do-pati.ipynb)
+<img width="100%" src="wallpapers/vale-do-pati-720p.jpg">
 
-**Villarrica volcano:** [download](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/villarrica.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/villarrica.ipynb)
-<img width="100%" src="wallpapers/villarrica.jpg">
+**Villarrica volcano:** [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/villarrica.jpg?raw=true | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/villarrica-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/villarrica.ipynb)
+<img width="100%" src="wallpapers/villarrica-720p.jpg">
 
 ## License
 
