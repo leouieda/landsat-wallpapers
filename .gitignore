@@ -3,3 +3,4 @@ __pycache__
 code/**/*.tar
 code/**/*.TIF
 code/**/*_MTL.txt
+*.zip
