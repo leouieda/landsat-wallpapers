@@ -7,11 +7,6 @@ Uses [xlandsat][xlandsat] to create the composites from data downloaded from
 redistributed here in accordance with the
 [Landsat Data Distribution Policy][policy].
 
-Browse and download the wallpapers below. Use the links to download 4k (high
-resolution; 3840x2160) or 720p (low resolution; 1280x720) versions. There are
-also links to browse the Python code (in Jupyter notebooks) that generated each
-wallpaper.
-
 > 💡 **Do you have an idea for a wallpaper or want to add one yourself?**
 > See the instructions in [`CONTRIBUTING.md`][contrib].
 
@@ -20,6 +15,21 @@ wallpaper.
 [policy]: https://www.usgs.gov/media/files/landsat-data-distribution-policy
 [contrib]: https://github.com/leouieda/landsat-wallpapers/blob/main/CONTRIBUTING.md
 
+## License
+
+Files in the `code` folder are distributed under the MIT license (see
+`LICENSE-MIT.txt`). All other files are distributed under the CC0 license (see
+`LICENSE-CC0.txt`).
+
+## Download
+
+Download a zip file with all of the wallpapers here: https://github.com/leouieda/landsat-wallpapers/releases
+
+You can also browse and download individual wallpapers below 👇🏾. 
+
+>  Use the links to download 4k (high resolution; 3840x2160) or 720p
+> (low resolution; 1280x720) versions. There are also links to browse the
+> Python code (in Jupyter notebooks) that generated each wallpaper.
 
 ---
 
@@ -56,11 +66,3 @@ wallpaper.
 **Neuquén:** 🧑🏽‍🎨 [@leouieda](https://github.com/leouieda) | [download 4k](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/neuquén.jpg?raw=true) | [download 720p](https://github.com/leouieda/landsat-wallpapers/blob/main/wallpapers/neuquén-720p.jpg?raw=true) | [code](https://github.com/leouieda/landsat-wallpapers/blob/main/code/neuquén.ipynb)
 
 <img width="100%" src="wallpapers/neuquén-720p.jpg">
-
-
-
-## License
-
-Files in the `code` folder are distributed under the MIT license (see
-`LICENSE-MIT.txt`). All other files are distributed under the CC0 license (see
-`LICENSE-CC0.txt`).
